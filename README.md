@@ -15,8 +15,6 @@
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 👨‍💻 My Blog [https://guns.lol/gorkeminblogu](https://guns.lol/gorkeminblogu)
-
 - 📫 How to reach me **Twitter, Discord, İnstagram or Telegram**
 
 - ⚡ Fun fact **I think Programming and Thinking İs Fun**
