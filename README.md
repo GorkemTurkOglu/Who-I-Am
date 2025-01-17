@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 👨‍💻 My Blog [https://guns.lol/gorkeminblogu](https://gus.lol/gorkeminblogu)
+- 👨‍💻 My Blog [https://guns.lol/gorkeminblogu](https://guns.lol/gorkeminblogu)
 
 - 📫 How to reach me **Twitter, Discord, İnstagram or Telegram**
 
@@ -32,6 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorkemturkoglu&show_icons=true&locale=en&layout=compact" alt="gorkemturkoglu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorkemturkoglu&show_icons=true&theme=tokyonight&locale=en" alt="gorkemturkoglu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemturkoglu&" alt="gorkemturkoglu" /></p>
 
