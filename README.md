@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Python, Web Lang's(HTML, CSS & JS)**
 
-- 👯 My Team **Nihgtmares**
+- 👯 My Team **My Friends 👾**
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 👨‍💻 My Blog [https://gun.lol/gorkeminblogu](https://gun.lol/gorkeminblogu)
+- 👨‍💻 My Blog [https://guns.lol/gorkeminblogu](https://gus.lol/gorkeminblogu)
 
 - 📫 How to reach me **Twitter, Discord, İnstagram or Telegram**
 
